@@ -11,6 +11,12 @@ Go to the [Releases](https://github.com/humanporkrind/TCG-Binder/releases) page 
 | macOS (Intel + Apple Silicon) | `TCG Binder-x.x.x-universal.dmg` |
 | Windows (x64) | `TCG Binder-x.x.x-win.zip` — extract and run `TCG Binder.exe` |
 
+## Screenshots
+
+| Binder View | Card Detail | Analytics |
+|-------------|-------------|-----------|
+| ![Binder View](screenshots/binder-view.png) | ![Card Detail](screenshots/card-detail.png) | ![Analytics](screenshots/analytics-view.png) |
+
 ## Features
 
 - **Multiple binders** — organise different sets or collections separately
