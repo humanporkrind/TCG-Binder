@@ -1,0 +1,17 @@
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px 12px 60px;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.search { width: 220px; }
+
+.count {
+  font-size: .75rem;
+  color: var(--text-mute);
+  margin-left: auto;
+}

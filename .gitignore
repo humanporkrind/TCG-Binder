@@ -1,0 +1,10 @@
+node_modules/
+out/
+release/
+dist/
+*.db
+*.db-shm
+*.db-wal
+*.backup.db
+.DS_Store
+.env
